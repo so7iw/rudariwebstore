@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#search{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#slider-box{
+    height:700px;
+    width: 100%;
+    padding: 0 30% 0 30%;
+}
+
+#slider {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
